@@ -1,0 +1,7 @@
+.admin_area{width: 100%; float: left;}
+.select_iptype, .invoice_type{width: 100%;
+    float: left;}
+/* .invoice_type .radio {
+    padding-left: 36px;
+} */
+/* .type_title{margin-left: 16px;} */
