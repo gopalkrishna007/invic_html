@@ -1,6 +1,38 @@
 .admin_area{width: 100%; float: left;}
 .select_iptype, .invoice_type{width: 100%;
-    float: left;}
+    float: left;}        
+.users_data.orange .ibox-title{background-color: #ff9800;
+    color: #fff;}
+.users_data.orange .ibox-content{background-color: #ff9800;
+    color: #ffffff; border: none;}
+.users_data.green .ibox-title{background-color: #4CAF50;
+    color: #fff;}
+.users_data.green .ibox-content{background-color: #4CAF50;
+    color: #fff; border: none;}        
+.users_data.pink .ibox-title{background-color: #e91e63;
+    color: #fff;}
+.users_data.pink .ibox-content{background-color: #e91e63;
+    color: #fff; border: none;} 
+.users_data.blue-grey .ibox-title{background-color: #607d8b;
+    color: #fff;}
+.users_data.blue-grey .ibox-content{background-color: #607d8b;
+    color: #fff; border: none;}
+.users_data.purple .ibox-title{background-color: #9c27b0;
+    color: #fff;}
+.users_data.purple .ibox-content{background-color: #9c27b0;
+    color: #fff; border: none;}
+.users_data.lightblue .ibox-title{background-color: #00bcd4;
+    color: #fff;}
+.users_data.lightblue .ibox-content{background-color: #00bcd4;
+    color: #fff; border: none;}
+.users_data.yellow .ibox-title{background-color: #FFD433;
+    color: #fff;}
+.users_data.yellow .ibox-content{background-color: #FFD433;
+    color: #fff; border: none;}      
+    
+    
+
+    
 /* .invoice_type .radio {
     padding-left: 36px;
 } */
